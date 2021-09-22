@@ -1,0 +1,20 @@
+C:\Users\User\Desktop\pasaparola oyunu\pasaparola oyunu\bin\Debug\pasaparola oyunu.exe.config
+C:\Users\User\Desktop\pasaparola oyunu\pasaparola oyunu\bin\Debug\pasaparola oyunu.exe
+C:\Users\User\Desktop\pasaparola oyunu\pasaparola oyunu\bin\Debug\pasaparola oyunu.pdb
+C:\Users\User\Desktop\pasaparola oyunu\pasaparola oyunu\obj\Debug\passaparola oyunu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\pasaparola oyunu\pasaparola oyunu\obj\Debug\pasaparola_oyunu.Form1.resources
+C:\Users\User\Desktop\pasaparola oyunu\pasaparola oyunu\obj\Debug\pasaparola_oyunu.Properties.Resources.resources
+C:\Users\User\Desktop\pasaparola oyunu\pasaparola oyunu\obj\Debug\passaparola oyunu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\pasaparola oyunu\pasaparola oyunu\obj\Debug\passaparola oyunu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pasaparola oyunu\pasaparola oyunu\obj\Debug\pasaparola oyunu.exe
+C:\Users\User\Desktop\pasaparola oyunu\pasaparola oyunu\obj\Debug\pasaparola oyunu.pdb
+C:\Users\User\Desktop\passaparola oyunu\pasaparola oyunu\bin\Debug\pasaparola oyunu.exe.config
+C:\Users\User\Desktop\passaparola oyunu\pasaparola oyunu\bin\Debug\pasaparola oyunu.exe
+C:\Users\User\Desktop\passaparola oyunu\pasaparola oyunu\bin\Debug\pasaparola oyunu.pdb
+C:\Users\User\Desktop\passaparola oyunu\pasaparola oyunu\obj\Debug\passaparola oyunu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\passaparola oyunu\pasaparola oyunu\obj\Debug\pasaparola_oyunu.Form1.resources
+C:\Users\User\Desktop\passaparola oyunu\pasaparola oyunu\obj\Debug\pasaparola_oyunu.Properties.Resources.resources
+C:\Users\User\Desktop\passaparola oyunu\pasaparola oyunu\obj\Debug\passaparola oyunu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\passaparola oyunu\pasaparola oyunu\obj\Debug\passaparola oyunu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\passaparola oyunu\pasaparola oyunu\obj\Debug\pasaparola oyunu.exe
+C:\Users\User\Desktop\passaparola oyunu\pasaparola oyunu\obj\Debug\pasaparola oyunu.pdb
